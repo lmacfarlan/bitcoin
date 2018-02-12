@@ -1,0 +1,8 @@
+project_token: 333a66189f6df6f95ded6ee1
+name: bitcoin
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
